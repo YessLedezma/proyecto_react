@@ -1,0 +1,27 @@
+.redes {
+    padding: 70px 20px 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.icon8 {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.icon9 {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.icon10 {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    cursor: pointer;
+}

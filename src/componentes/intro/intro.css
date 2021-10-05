@@ -1,0 +1,28 @@
+header {
+    background-color: #0f0029;
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.icon {
+    height: 250px;
+    width: 250px;
+    border-radius: 125px;
+    box-shadow: blueviolet;
+    margin: 35px;
+}
+
+h1 {
+    color: #61adff;
+    font-family: fantasy;
+    font-size: 4rem;
+    margin: 20px;
+}
+
+p {
+    color: whitesmoke;
+    padding: 20px;
+    margin: 0;
+}

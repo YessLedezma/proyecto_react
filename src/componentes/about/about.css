@@ -1,0 +1,17 @@
+.iconY {
+    height: 150px;
+    width: 150px;
+    border-radius: 125px;
+    box-shadow: blueviolet;
+    margin: 35px;
+}
+
+.text {
+    text-align: center;
+}
+
+.color {
+    color: whitesmoke;
+    font-size: 1.1rem;
+    line-height: 2rem;
+}

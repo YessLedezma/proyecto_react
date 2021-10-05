@@ -1,0 +1,32 @@
+.container {
+    margin: auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.d-flex {
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+
+.card-m4 {
+    margin: 20px;
+}
+
+.card-img-top {
+    height: 100px;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.card-text{
+    color: whitesmoke;
+    font-size: 0.9rem;
+    padding: 0;
+    margin-top: revert;
+    text-align: center;
+}
+
